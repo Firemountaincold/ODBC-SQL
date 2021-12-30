@@ -1,5 +1,5 @@
 # ODBC SQL
- 一个用C++编写的调用ODBC连接MySQL数据库的小程序
+ 一个用C编写的调用ODBC连接MySQL数据库的小程序
 ## 使用方法：
 使用```./ODBC_SQL -h```查看。
 ## 更新日志：
